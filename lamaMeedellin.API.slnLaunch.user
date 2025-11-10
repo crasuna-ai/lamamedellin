@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "lamaMeedellin.API\\lamaMeedellin.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "LAMAMEdellin\\LAMAMEdellin.client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

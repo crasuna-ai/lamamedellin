@@ -1,0 +1,6 @@
+@lamaMeedellin.API_HostAddress = http://localhost:5223
+
+GET {{lamaMeedellin.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

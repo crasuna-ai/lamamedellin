@@ -1,0 +1,499 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamamedellin\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|solutionrelative:lamamedellin\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamamedellin\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|solutionrelative:lamamedellin\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamamedellin\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|solutionrelative:lamamedellin\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamamedellin\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|solutionrelative:lamamedellin\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamamedellin\\models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|solutionrelative:lamamedellin\\models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamamedellin\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|solutionrelative:lamamedellin\\models\\authmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\controllers\\miembroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\controllers\\miembroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamamedellin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|solutionrelative:lamamedellin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamamedellin\\services\\imiembroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|solutionrelative:lamamedellin\\services\\imiembroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamamedellin\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|solutionrelative:lamamedellin\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamamedellin\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|solutionrelative:lamamedellin\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamamedellin\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|solutionrelative:lamamedellin\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamamedellin\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|solutionrelative:lamamedellin\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\lamameedellin.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\lamameedellin.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamamedellin\\lamamedellin.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AB6940C-1420-40F9-B346-8109ED865646}|LAMAMEdellin\\LAMAMEdellin.client.csproj|solutionrelative:lamamedellin\\lamamedellin.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\dtos\\authdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\migrations\\20251110023436_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\migrations\\20251110023436_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\models\\miembro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\lamameedellin.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\lamameedellin.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|c:\\users\\user\\source\\repos\\lamameedellin.api\\lamameedellin.api\\lamameedellin.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B1CC624-A191-42CC-853C-19DF5D9967FC}|lamaMeedellin.API\\lamaMeedellin.API.csproj|solutionrelative:lamameedellin.api\\lamameedellin.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "LAMAMEdellin\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Pages\\Counter.razor",
+              "RelativeToolTip": "LAMAMEdellin\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T11:43:50.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "LAMAMEdellin\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "LAMAMEdellin\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T11:43:04.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "LAMAMEdellin\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "LAMAMEdellin\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T11:38:17.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\Data\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Data\\DbInitializer.cs*",
+              "RelativeToolTip": "lamaMeedellin.API\\Data\\DbInitializer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:35:22.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "LAMAMEdellin\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Pages\\Weather.razor",
+              "RelativeToolTip": "LAMAMEdellin\\Pages\\Weather.razor",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T11:44:00.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "LAMAMEdellin\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Services\\IAuthService.cs",
+              "RelativeToolTip": "LAMAMEdellin\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:49:17.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "lamaMeedellin.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:42:14.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthModels.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Models\\AuthModels.cs",
+              "RelativeDocumentMoniker": "LAMAMEdellin\\Models\\AuthModels.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Models\\AuthModels.cs",
+              "RelativeToolTip": "LAMAMEdellin\\Models\\AuthModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:48:50.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Miembro.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Models\\Miembro.cs",
+              "RelativeDocumentMoniker": "LAMAMEdellin\\Models\\Miembro.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Models\\Miembro.cs",
+              "RelativeToolTip": "LAMAMEdellin\\Models\\Miembro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:48:17.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IMiembroService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Services\\IMiembroService.cs",
+              "RelativeDocumentMoniker": "LAMAMEdellin\\Services\\IMiembroService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Services\\IMiembroService.cs",
+              "RelativeToolTip": "LAMAMEdellin\\Services\\IMiembroService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:50:26.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Program.cs",
+              "RelativeDocumentMoniker": "LAMAMEdellin\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Program.cs",
+              "RelativeToolTip": "LAMAMEdellin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:44:41.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "LAMAMEdellin\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\Services\\AuthService.cs",
+              "RelativeToolTip": "LAMAMEdellin\\Services\\AuthService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T03:49:50.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MiembrosController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Controllers\\MiembrosController.cs",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\Controllers\\MiembrosController.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Controllers\\MiembrosController.cs",
+              "RelativeToolTip": "lamaMeedellin.API\\Controllers\\MiembrosController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:29:09.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LAMAMEdellin.client.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\LAMAMEdellin.client.csproj",
+              "RelativeDocumentMoniker": "LAMAMEdellin\\LAMAMEdellin.client.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\LAMAMEdellin.client.csproj",
+              "RelativeToolTip": "LAMAMEdellin\\LAMAMEdellin.client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T03:41:46.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "lamaMeedellin.API",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\lamaMeedellin.API.csproj",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\lamaMeedellin.API.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\lamaMeedellin.API.csproj",
+              "RelativeToolTip": "lamaMeedellin.API\\lamaMeedellin.API.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T03:45:33.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "lamaMeedellin.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T03:45:38.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "lamaMeedellin.API\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:21:45.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\_Imports.razor",
+              "RelativeDocumentMoniker": "LAMAMEdellin\\_Imports.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\_Imports.razor",
+              "RelativeToolTip": "LAMAMEdellin\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T11:30:13.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\App.razor",
+              "RelativeDocumentMoniker": "LAMAMEdellin\\App.razor",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\LAMAMEdellin\\App.razor",
+              "RelativeToolTip": "LAMAMEdellin\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-10T11:30:14.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Services\\AuthService.cs",
+              "RelativeToolTip": "lamaMeedellin.API\\Services\\AuthService.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAiwMQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:41:29.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Services\\IAuthService.cs",
+              "RelativeToolTip": "lamaMeedellin.API\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:40:54.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthDtos.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\DTOs\\AuthDtos.cs",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\DTOs\\AuthDtos.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\DTOs\\AuthDtos.cs",
+              "RelativeToolTip": "lamaMeedellin.API\\DTOs\\AuthDtos.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:40:18.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20251110023436_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Migrations\\20251110023436_InitialCreate.cs",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\Migrations\\20251110023436_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Migrations\\20251110023436_InitialCreate.cs",
+              "RelativeToolTip": "lamaMeedellin.API\\Migrations\\20251110023436_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:34:36.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Program.cs",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Program.cs",
+              "RelativeToolTip": "lamaMeedellin.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:22:14.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\appsettings.json",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\appsettings.json",
+              "RelativeToolTip": "lamaMeedellin.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-10T02:17:44.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Models\\Usuario.cs",
+              "RelativeToolTip": "lamaMeedellin.API\\Models\\Usuario.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:21:16.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Miembro.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Models\\Miembro.cs",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\Models\\Miembro.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\Models\\Miembro.cs",
+              "RelativeToolTip": "lamaMeedellin.API\\Models\\Miembro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T02:20:47.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "lamaMeedellin.API.http",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\lamaMeedellin.API.http",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\lamaMeedellin.API.http",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\lamaMeedellin.API.http",
+              "RelativeToolTip": "lamaMeedellin.API\\lamaMeedellin.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-10T02:17:32.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "lamaMeedellin.API.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\lamaMeedellin.API.csproj",
+              "RelativeDocumentMoniker": "lamaMeedellin.API\\lamaMeedellin.API.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\lamaMeedellin.API\\lamaMeedellin.API\\lamaMeedellin.API.csproj",
+              "RelativeToolTip": "lamaMeedellin.API\\lamaMeedellin.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-10T02:16:36.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
